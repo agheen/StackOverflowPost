@@ -1,0 +1,6 @@
+c:\users\austin\documents\visual studio 2017\Projects\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe.config
+c:\users\austin\documents\visual studio 2017\Projects\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.exe
+c:\users\austin\documents\visual studio 2017\Projects\StackOverflowPost\StackOverflowPost\bin\Debug\StackOverflowPost.pdb
+c:\users\austin\documents\visual studio 2017\Projects\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2017\Projects\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.exe
+c:\users\austin\documents\visual studio 2017\Projects\StackOverflowPost\StackOverflowPost\obj\Debug\StackOverflowPost.pdb
